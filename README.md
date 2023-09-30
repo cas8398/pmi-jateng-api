@@ -3,16 +3,7 @@ unofficial api pmi prov jateng
 
 demo :
 https://rapidapi.com/cas8398/api/pmi-jateng
-# Contoh
-untuk mendapatkan semua data
-```ruby
-http://api.flagodna.com/pmi/api/
-```
-
-untuk memilih kota
-```ruby
-http://api.flagodna.com/pmi/api/2
-```
+ 
 # ID berdasarkan kota
 ```ruby
 [1] = PMI kota Semarang
